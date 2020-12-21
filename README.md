@@ -1,2 +1,2 @@
-# lab_1_3308
+# Hello Github
 My first github repo!
